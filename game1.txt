@@ -1,5 +1,5 @@
-Jakov ima x pobjeda i y poraza!
-Petar ima x pobjeda i y poraza!
+Jakov ima 1 pobjeda i 0 poraza!
+Petar ima 0 pobjeda i 1 poraza!
 
 X . .
 O O O
