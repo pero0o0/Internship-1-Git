@@ -3,4 +3,4 @@ Petar ima x pobjeda i y poraza!
 
 X . .
 O O .
-. . X
+X . X
