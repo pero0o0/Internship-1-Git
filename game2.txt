@@ -1,6 +1,6 @@
-Jakov ima 1 pobjeda 0 y poraza!
-Petar ima 0 pobjeda 1 y poraza!
+Jakov ima 1 pobjeda 2 poraza!
+Petar ima 2 pobjeda 1 poraza!
 
 X O O
-. X O
+X X O
 O X X
