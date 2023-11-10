@@ -2,5 +2,5 @@ Jakov ima 1 pobjeda i 0 poraza!
 Petar ima 0 pobjeda i 1 poraza!
 
 O X O
-. O X
+O O X
 X . X
