@@ -1,6 +1,6 @@
 Jakov ima x pobjeda i y poraza!
 Petar ima x pobjeda i y poraza!
 
-. O O
+X O O
 . X .
 . X .
