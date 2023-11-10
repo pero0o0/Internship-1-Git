@@ -3,4 +3,4 @@ Petar ima 0 pobjeda 1 y poraza!
 
 X O O
 . X O
-. X .
+. X X
