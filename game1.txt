@@ -4,4 +4,3 @@ Petar ima x pobjeda i y poraza!
 X . .
 . O .
 . . X
->>>>>>> fae798187eaa9893e2bb1efee441ec5fb04af442
